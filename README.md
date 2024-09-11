@@ -20,6 +20,11 @@ This project is a comprehensive Personal Protective Equipment (PPE) detection sy
 - YOLOv7 dependencies
 - Google Cloud credentials for Gmail API
 
+### Clone the Repository
+```bash
+https://github.com/SAM8402/PPE-Violation-Detection
+cd PPE-Violation-Detection
+```
 ### Install Python Dependencies
 ```bash
 pip install -r requirements.txt
